@@ -10,7 +10,9 @@ Just select template - Fill in the details and voila! Your resume is ready to pr
 ## Folder stracture
 ResumeBuilder-React-main
 ├── .firebase
+
 ├── .github
+
 ├── public
 ├── src
 │   ├── assets
