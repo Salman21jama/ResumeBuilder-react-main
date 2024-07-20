@@ -7,7 +7,56 @@ Stand out from the crowd and make a lasting impression with Resume Builder, the 
 
 Just select template - Fill in the details and voila! Your resume is ready to preview and download.
 
-### 
+## Folder stracture
+ResumeBuilder-React-main
+├── .firebase
+├── .github
+├── public
+├── src
+│   ├── assets
+│   │   └── images
+│   │       ├── christopher-gower-m_HRfLhgABo-unsplash.jpg
+│   │       ├── homePageImage.webp
+│   │       └── profile-icon.png
+│   ├── components
+│   │   ├── Info
+│   │   ├── 1.js
+│   │   ├── About.js
+│   │   ├── Header.js
+│   │   ├── HomePage.js
+│   │   └── PreviewPage.js
+│   ├── constants
+│   │   └── actionTypes.js
+│   ├── state
+│   │   ├── actions
+│   │   │   ├── education.js
+│   │   │   ├── index.js
+│   │   │   ├── keySkills.js
+│   │   │   ├── personalInfo.js
+│   │   │   ├── profilePhoto.js
+│   │   │   └── workExperience.js
+│   │   ├── reducers
+│   │   │   ├── education.js
+│   │   │   ├── index.js
+│   │   │   ├── keySkills.js
+│   │   │   ├── personalInfo.js
+│   │   │   ├── profilePhoto.js
+│   │   │   └── workExperience.js
+│   │   └── store
+│   │       └── store.js
+│   ├── App.js
+│   ├── App.test.js
+│   ├── index.css
+│   ├── index.js
+│   └── setupTests.js
+├── .firebaserc
+├── .gitignore
+├── firebase.json
+├── package-lock.json
+├── package.json
+├── README.md
+└── tailwind.config.js
+
 
 ### `npm start`
 
