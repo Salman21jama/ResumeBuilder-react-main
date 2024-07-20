@@ -15,7 +15,7 @@ const HomePage = () => {
               Quibusdam animi maxime debitis iusto perspiciatis quasi labore
               numquam dicta expedita, dolore placeat quae harum nisi nulla
               corporis mollitia, voluptatem iure, nam sed? Ad, inventore itaque
-              ab id iste distinctio? Eligendi, iste!
+              ab id iste distinctio? Eligendi, iste Now luxary
             </p>
             <div className="mt-8">
               <Link
