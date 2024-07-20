@@ -1,8 +1,13 @@
 # Getting Started with Create React App
 
-## Available Scripts
+## Resume builder
+Introducing Resume Builder, the ultimate React application that empowers you to craft eye-catching resumes like never before. You can easily customise your resume with Resume Builder's user-friendly interface to highlight your unique skills and professional experience.
 
-In the project directory, you can run:
+Stand out from the crowd and make a lasting impression with Resume Builder, the perfect tool to land your dream job. Start building your future today!
+
+Just select template - Fill in the details and voila! Your resume is ready to preview and download.
+
+### 
 
 ### `npm start`
 
